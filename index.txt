@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>official Finn website</title>
+</head>
+<body>
+<h1>FINN HAS A WEBSITE</h1>
+<p>bottom text</p>
+</body>
+</html>
